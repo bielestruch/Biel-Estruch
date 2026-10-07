@@ -72,13 +72,11 @@ El meu objectiu és continuar aprenent sobre informàtica i millorar els meus co
 En el futur m'agradaria especialitzar-me en **ciberseguretat** i continuar formant-me per poder treballar en aquest sector.
 
 ## Interessos personals
-
 En el meu temps lliure m'agrada **anar al gimnàs**.
 
 També m'interessa la tecnologia i continuar aprenent coses noves relacionades amb la informàtica.
 
 ## Què vull continuar aprenent?
-
 - Administració de sistemes
 - Xarxes
 - Serveis de xarxa
@@ -88,6 +86,4 @@ També m'interessa la tecnologia i continuar aprenent coses noves relacionades a
 - Ciberseguretat
 
 ## Contacte
-
 **GitHub:** [Biel Estruch](https://github.com/BielEstruch)
-
