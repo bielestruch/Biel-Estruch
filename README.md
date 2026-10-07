@@ -90,3 +90,4 @@ També m'interessa la tecnologia i continuar aprenent coses noves relacionades a
 ## Contacte
 
 **GitHub:** [Biel Estruch](https://github.com/BielEstruch)
+
