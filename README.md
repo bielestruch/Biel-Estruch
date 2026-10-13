@@ -1,8 +1,21 @@
+╔════════════════════════════╗
+
+|--------------🖥️Biel Estruch Jimez--------------|
+
+|----------SMX 2º · SISTEMES · XARXES----------|
+
+|----------🔧 Construint coneixements----------|  
+|---------------🌐 Explorant xarxes--------------|  
+|------------🔐 Futur: Ciberseguretat------------|
+╚════════════════════════════╝
+
 # Hola, soc en Biel Estruch Jimenez
 
 Soc estudiant de **2n de SMX (Sistemes Microinformàtics i Xarxes)** a **Escola Pia Mataró - Santa Anna**.
 
 M'interessa el món de la informàtica i actualment estic aprenent diferents tecnologies relacionades amb els sistemes, les xarxes i la programació.
+
+![alt text](image-1.png)
 
 ## Qui soc?
 
@@ -28,12 +41,7 @@ Durant aquest curs estic treballant en:
 
 Durant el cicle he treballat amb diferents eines i tecnologies:
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![alt text](image.png)
 
 ### Sistemes i xarxes
 
@@ -53,6 +61,8 @@ També estic aprenent programació i desenvolupant diferents exercicis i pràcti
 
 ## Projectes i pràctiques
 
+![alt text](image-4.png)
+
 Alguns dels treballs i pràctiques que he realitzat durant SMX són:
 
 - Configuració de màquines virtuals amb VirtualBox.
@@ -70,7 +80,9 @@ Alguns dels treballs i pràctiques que he realitzat durant SMX són:
 El meu objectiu és continuar aprenent sobre informàtica i millorar els meus coneixements en sistemes, xarxes i programació.
 
 En el futur m'agradaria especialitzar-me en **ciberseguretat** i continuar formant-me per poder treballar en aquest sector.
+### 🌐 El meu camí en informàtica
 
+![alt text](image-3.png)
 ## Interessos personals
 En el meu temps lliure m'agrada **anar al gimnàs**.
 
