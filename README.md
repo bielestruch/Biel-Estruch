@@ -7,6 +7,7 @@
 |----------🔧 Construint coneixements----------|  
 |---------------🌐 Explorant xarxes--------------|  
 |------------🔐 Futur: Ciberseguretat------------|
+
 ╚════════════════════════════╝
 
 # Hola, soc en Biel Estruch Jimenez
