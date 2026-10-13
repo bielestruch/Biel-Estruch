@@ -83,7 +83,7 @@ El meu objectiu és continuar aprenent sobre informàtica i millorar els meus co
 En el futur m'agradaria especialitzar-me en **ciberseguretat** i continuar formant-me per poder treballar en aquest sector.
 ### 🌐 El meu camí en informàtica
 
-<img src="./image-3.png" alt="El meu entorn de treball en SMX" width="300">
+<img src="./image-3.png" alt="El meu entorn de treball en SMX" width="400">
 ## Interessos personals
 En el meu temps lliure m'agrada **anar al gimnàs**.
 
